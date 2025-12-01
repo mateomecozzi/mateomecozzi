@@ -11,11 +11,7 @@ My focus is building technology that is **useful, elegant, reliable, and human**
 # 🧰 Skills  
 
 ## 👨‍💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-005C84?logo=database&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-005C84?logo=database&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 
 ## ⚙️ Frameworks & Libraries  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
