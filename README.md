@@ -34,29 +34,25 @@ My focus is building technology that is **useful, elegant, reliable, and human**
 ![FAISS](https://img.shields.io/badge/FAISS-0092FF?logo=ai&logoColor=white)
 
 ## 🔐 Security  
-OAuth2 · JWT · API Security · CORS/Auth Flows
-
-## 🧪 Testing  
-PyTest · Jest · Vitest
+OAuth2 · JWT
 
 ## 🚀 DevOps & Cloud  
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)  
-Azure Container Apps 
-AWS
+![Azure](https://img.shields.io/badge/Azure%20Container%20Apps-0078D4?logo=microsoftazure&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
-## 🕸️ Microservices  
-RAG Pipelines · Vector Stores · Event-Driven Architectures
+## 🕸️ Architectures & components  
+![Microservices](https://img.shields.io/badge/Microservices-6d28d9?logo=cloudflare&logoColor=white)  
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-1e3a8a?logo=apacheairflow&logoColor=white)  
+![Vector Stores](https://img.shields.io/badge/Vector%20Stores-0f766e?logo=pinboard&logoColor=white)  
+![Event Driven](https://img.shields.io/badge/Event%20Driven%20Architecture-4338ca?logo=apachekafka&logoColor=white)
 
 ## 🎨 Frontend  
-HTML · CSS · TailwindCSS
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
-## 📚 Currently Learning  
-Kubernetes · MLOps · Kafka
-
-# 📊 GitHub Stats  
-![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateoMecozzi&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoMecozzi&layout=compact&theme=tokyonight)
 
 # 📌 Featured Projects  
 - **AI RAG Assistant** — Multi-agent architecture, FastAPI, LangChain, ChromaDB  
